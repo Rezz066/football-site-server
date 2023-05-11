@@ -1,0 +1,47 @@
+[
+  {
+    "id": "90b9a216-2feb-40ce-af0f-f6a277c3b779",
+    "name": "Premier League",
+    "country": "England",
+    "logo": "../public/assets/logos/premier-league.svg",
+    "country_flag": "../public/assets/flags/england.svg",
+    "coefficient": 1,
+    "founding_year": 1992
+  },
+  {
+    "id": "33c40dd1-0f12-48f5-8903-36f28c784b12",
+    "name": "La Liga",
+    "country": "Spain",
+    "logo": "../public/assets/logos/laliga.svg",
+    "country_flag": "../public/assets/flags/spain.svg",
+    "coefficient": 2,
+    "founding_year": 1929
+  },
+  {
+    "id": "d01e38d1-ae89-4161-9fc5-a941260fedb3",
+    "name": "Bundesliga",
+    "country": "Germany",
+    "logo": "../public/assets/logos/bundesliga.svg",
+    "country_flag": "../public/assets/flags/germany.svg",
+    "coefficient": 3,
+    "founding_year": 1963
+  },
+  {
+    "id": "22ea1b14-56a0-4fd5-88aa-362a377f5849",
+    "name": "Serie A",
+    "country": "Italy",
+    "logo": "../public/assets/logos/serie-a.svg",
+    "country_flag": "../public/assets/flags/italy.svg",
+    "coefficient": 4,
+    "founding_year": 1898
+  },
+  {
+    "id": "97d5b614-b3b4-4d00-a1d2-58962da26bfd",
+    "name": "Ligue 1",
+    "country": "France",
+    "logo": "../public/assets/logos/ligue-1.svg",
+    "country_flag": "../public/assets/flags/france.svg",
+    "coefficient": 5,
+    "founding_year": 1930
+  }
+]
