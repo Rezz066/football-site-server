@@ -4,7 +4,7 @@
  */
 exports.up = function (knex) {
   return knex.schema.createTable("leagues", (table) => {
-    table.uuid("id").primary();
+    table.integer("id").primary();
     table.string("name").notNullable();
     table.string("country").notNullable();
     table.string("logo").notNullable();
