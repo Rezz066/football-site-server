@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "club_id": 33,
+    "goals_for": 49,
+    "goals_against": 41,
+    "goal_difference": 8,
+    "own_goals": 1,
+    "clean_sheets": 15,
+    "yellow_cards": 73,
+    "red_cards": 2
+  },
+  {
+    "id": 2,
+    "club_id": 34,
+    "goals_for": 62,
+    "goals_against": 29,
+    "goal_difference": 32,
+    "own_goals": 1,
+    "clean_sheets": 13,
+    "yellow_cards": 56,
+    "red_cards": 2
+  },
+  {
+    "id": 3,
+    "club_id": 35,
+    "goals_for": 37,
+    "goals_against": 67,
+    "goal_difference": -30,
+    "own_goals": 3,
+    "clean_sheets": 8,
+    "yellow_cards": 63,
+    "red_cards": 0
+  },
+  {
+    "id": 4,
+    "club_id": 36,
+    "goals_for": 50,
+    "goals_against": 49,
+    "goal_difference": 1,
+    "own_goals": 2,
+    "clean_sheets": 8,
+    "yellow_cards": 75,
+    "red_cards": 1
+  },
+  {
+    "id": 5,
+    "club_id": 39,
+    "goals_for": 30,
+    "goals_against": 50,
+    "goal_difference": -20,
+    "own_goals": 1,
+    "clean_sheets": 11,
+    "yellow_cards": 77,
+    "red_cards": 6
+  },
+  {
+    "id": 6,
+    "club_id": 40,
+    "goals_for": 67,
+    "goals_against": 42,
+    "goal_difference": 25,
+    "own_goals": 2,
+    "clean_sheets": 13,
+    "yellow_cards": 51,
+    "red_cards": 1
+  },
+  {
+    "id": 7,
+    "club_id": 41,
+    "goals_for": 31,
+    "goals_against": 64,
+    "goal_difference": -33,
+    "own_goals": 5,
+    "clean_sheets": 4,
+    "yellow_cards": 66,
+    "red_cards": 0
+  },
+  {
+    "id": 8,
+    "club_id": 42,
+    "goals_for": 83,
+    "goals_against": 39,
+    "goal_difference": 44,
+    "own_goals": 1,
+    "clean_sheets": 13,
+    "yellow_cards": 49,
+    "red_cards": 0
+  },
+  {
+    "id": 9,
+    "club_id": 45,
+    "goals_for": 33,
+    "goals_against": 53,
+    "goal_difference": -21,
+    "own_goals": 0,
+    "clean_sheets": 8,
+    "yellow_cards": 76,
+    "red_cards": 2
+  },
+  {
+    "id": 10,
+    "club_id": 46,
+    "goals_for": 49,
+    "goals_against": 64,
+    "goal_difference": -15,
+    "own_goals": 5,
+    "clean_sheets": 6,
+    "yellow_cards": 56,
+    "red_cards": 2
+  },
+  {
+    "id": 11,
+    "club_id": 47,
+    "goals_for": 64,
+    "goals_against": 57,
+    "goal_difference": 7,
+    "own_goals": 1,
+    "clean_sheets": 10,
+    "yellow_cards": 71,
+    "red_cards": 3
+  },
+  {
+    "id": 12,
+    "club_id": 48,
+    "goals_for": 38,
+    "goals_against": 50,
+    "goal_difference": -12,
+    "own_goals": 1,
+    "clean_sheets": 9,
+    "yellow_cards": 42,
+    "red_cards": 0
+  },
+  {
+    "id": 13,
+    "club_id": 49,
+    "goals_for": 34,
+    "goals_against": 39,
+    "goal_difference": -5,
+    "own_goals": 3,
+    "clean_sheets": 10,
+    "yellow_cards": 71,
+    "red_cards": 3
+  },
+  {
+    "id": 14,
+    "club_id": 50,
+    "goals_for": 89,
+    "goals_against": 31,
+    "goal_difference": 58,
+    "own_goals": 1,
+    "clean_sheets": 11,
+    "yellow_cards": 43,
+    "red_cards": 1
+  },
+  {
+    "id": 15,
+    "club_id": 51,
+    "goals_for": 63,
+    "goals_against": 45,
+    "goal_difference": 18,
+    "own_goals": 5,
+    "clean_sheets": 11,
+    "yellow_cards": 45,
+    "red_cards": 0
+  },
+  {
+    "id": 16,
+    "club_id": 52,
+    "goals_for": 35,
+    "goals_against": 46,
+    "goal_difference": -11,
+    "own_goals": 4,
+    "clean_sheets": 8,
+    "yellow_cards": 80,
+    "red_cards": 3
+  },
+  {
+    "id": 17,
+    "club_id": 55,
+    "goals_for": 52,
+    "goals_against": 45,
+    "goal_difference": 7,
+    "own_goals": 3,
+    "clean_sheets": 10,
+    "yellow_cards": 49,
+    "red_cards": 1
+  },
+  {
+    "id": 18,
+    "club_id": 63,
+    "goals_for": 44,
+    "goals_against": 69,
+    "goal_difference": -25,
+    "own_goals": 1,
+    "clean_sheets": 5,
+    "yellow_cards": 75,
+    "red_cards": 2
+  },
+  {
+    "id": 19,
+    "club_id": 65,
+    "goals_for": 34,
+    "goals_against": 65,
+    "goal_difference": -31,
+    "own_goals": 0,
+    "clean_sheets": 7,
+    "yellow_cards": 78,
+    "red_cards": 0
+  },
+  {
+    "id": 20,
+    "club_id": 66,
+    "goals_for": 46,
+    "goals_against": 43,
+    "goal_difference": 3,
+    "own_goals": 4,
+    "clean_sheets": 12,
+    "yellow_cards": 68,
+    "red_cards": 1
+  }
+]

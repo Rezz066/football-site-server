@@ -1,6 +1,6 @@
 [
   {
-    "id": "90b9a216-2feb-40ce-af0f-f6a277c3b779",
+    "id": 1,
     "name": "Premier League",
     "country": "England",
     "logo": "https://media.api-sports.io/football/leagues/39.png",
@@ -9,7 +9,7 @@
     "founding_year": 1992
   },
   {
-    "id": "33c40dd1-0f12-48f5-8903-36f28c784b12",
+    "id": 2,
     "name": "La Liga",
     "country": "Spain",
     "logo": "https://media.api-sports.io/football/leagues/140.png",
@@ -18,7 +18,7 @@
     "founding_year": 1929
   },
   {
-    "id": "d01e38d1-ae89-4161-9fc5-a941260fedb3",
+    "id": 3,
     "name": "Bundesliga",
     "country": "Germany",
     "logo": "https://media-3.api-sports.io/football/leagues/78.png",
@@ -27,7 +27,7 @@
     "founding_year": 1963
   },
   {
-    "id": "22ea1b14-56a0-4fd5-88aa-362a377f5849",
+    "id": 4,
     "name": "Serie A",
     "country": "Italy",
     "logo": "https://media-3.api-sports.io/football/leagues/135.png",
@@ -36,7 +36,7 @@
     "founding_year": 1898
   },
   {
-    "id": "97d5b614-b3b4-4d00-a1d2-58962da26bfd",
+    "id": 5,
     "name": "Ligue 1",
     "country": "France",
     "logo": "https://media-3.api-sports.io/football/leagues/61.png",
