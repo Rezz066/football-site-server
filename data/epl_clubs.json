@@ -1,0 +1,222 @@
+[
+  {
+    "id": 33,
+    "league_id": 1,
+    "name": "Manchester United",
+    "logo": "https://media-1.api-sports.io/football/teams/33.png",
+    "founded_year": 1902,
+    "city": "Manchester",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Old Trafford"
+  },
+  {
+    "id": 34,
+    "league_id": 1,
+    "name": "Newcastle United",
+    "logo": "https://media-1.api-sports.io/football/teams/34.png",
+    "founded_year": 1892,
+    "city": "Newcastle",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "St. James' Park"
+  },
+  {
+    "id": 35,
+    "league_id": 1,
+    "name": "Bournemouth",
+    "logo": "https://media-1.api-sports.io/football/teams/35.png",
+    "founded_year": 1899,
+    "city": "Bournemouth",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Vitality Stadium"
+  },
+  {
+    "id": 36,
+    "league_id": 1,
+    "name": "Fulham",
+    "logo": "https://media-1.api-sports.io/football/teams/36.png",
+    "founded_year": 1879,
+    "city": "London",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Craven Cottage"
+  },
+  {
+    "id": 39,
+    "league_id": 1,
+    "name": "Wolverhampton Wanderers",
+    "logo": "https://media-1.api-sports.io/football/teams/39.png",
+    "founded_year": 1877,
+    "city": "Wolverhampton",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Molineux Stadium"
+  },
+  {
+    "id": 40,
+    "league_id": 1,
+    "name": "Liverpool",
+    "logo": "https://media-1.api-sports.io/football/teams/40.png",
+    "founded_year": 1892,
+    "city": "Liverpool",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Anfield Road"
+  },
+  {
+    "id": 41,
+    "league_id": 1,
+    "name": "Southampton",
+    "logo": "https://media-1.api-sports.io/football/teams/41.png",
+    "founded_year": 1885,
+    "city": "Southampton",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "St Mary's Stadium"
+  },
+  {
+    "id": 42,
+    "league_id": 1,
+    "name": "Arsenal",
+    "logo": "https://media-1.api-sports.io/football/teams/42.png",
+    "founded_year": 1886,
+    "city": "London",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Emirates Stadium"
+  },
+  {
+    "id": 45,
+    "league_id": 1,
+    "name": "Everton",
+    "logo": "https://media-1.api-sports.io/football/teams/45.png",
+    "founded_year": 1878,
+    "city": "Liverpool",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Goodison Park"
+  },
+  {
+    "id": 46,
+    "league_id": 1,
+    "name": "Leicester City",
+    "logo": "https://media-1.api-sports.io/football/teams/46.png",
+    "founded_year": 1884,
+    "city": "Leicester",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "King Power Stadium"
+  },
+  {
+    "id": 47,
+    "league_id": 1,
+    "name": "Tottenham Hotspur",
+    "logo": "https://media-1.api-sports.io/football/teams/47.png",
+    "founded_year": 1882,
+    "city": "London",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Tottenham Hotspur Stadium"
+  },
+  {
+    "id": 48,
+    "league_id": 1,
+    "name": "West Ham United",
+    "logo": "https://media-1.api-sports.io/football/teams/48.png",
+    "founded_year": 1900,
+    "city": "London",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "London Stadium"
+  },
+  {
+    "id": 49,
+    "league_id": 1,
+    "name": "Chelsea",
+    "logo": "https://media-1.api-sports.io/football/teams/49.png",
+    "founded_year": 1905,
+    "city": "London",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Stamford Bridge"
+  },
+  {
+    "id": 50,
+    "league_id": 1,
+    "name": "Manchester City",
+    "logo": "https://media-1.api-sports.io/football/teams/50.png",
+    "founded_year": 1894,
+    "city": "Manchester",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Etihad Stadium"
+  },
+  {
+    "id": 51,
+    "league_id": 1,
+    "name": "Brighton & Hove Albion",
+    "logo": "https://media-1.api-sports.io/football/teams/51.png",
+    "founded_year": 1901,
+    "city": "Brighton",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Amex Stadium"
+  },
+  {
+    "id": 52,
+    "league_id": 1,
+    "name": "Crystal Palace",
+    "logo": "https://media-1.api-sports.io/football/teams/52.png",
+    "founded_year": 1905,
+    "city": "London",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Selhurst Park"
+  },
+  {
+    "id": 55,
+    "league_id": 1,
+    "name": "Brentford",
+    "logo": "https://media-1.api-sports.io/football/teams/55.png",
+    "founded_year": 1889,
+    "city": "London",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Gtech Community Stadium"
+  },
+  {
+    "id": 63,
+    "league_id": 1,
+    "name": "Leeds United",
+    "logo": "https://media-1.api-sports.io/football/teams/63.png",
+    "founded_year": 1919,
+    "city": "Leeds",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Ellan Road"
+  },
+  {
+    "id": 65,
+    "league_id": 1,
+    "name": "Nottingham Forest",
+    "logo": "https://media-1.api-sports.io/football/teams/65.png",
+    "founded_year": 1865,
+    "city": "Nottingham",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "The City Ground"
+  },
+  {
+    "id": 66,
+    "league_id": 1,
+    "name": "Aston Villa",
+    "logo": "https://media-1.api-sports.io/football/teams/66.png",
+    "founded_year": 1874,
+    "city": "Birmingham",
+    "league": "Premier League",
+    "country": "England",
+    "stadium": "Villa Park"
+  }
+]
