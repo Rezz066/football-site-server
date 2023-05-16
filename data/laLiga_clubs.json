@@ -1,0 +1,222 @@
+[
+    {
+        "id": 529,
+        "league_id": 2,
+        "name": "FC Barcelona",
+        "logo": "https://media-1.api-sports.io/football/teams/529.png",
+        "founded_year": 1899,
+        "city": "Barcelona",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Camp Nou"
+    },
+    {
+        "id": 530,
+        "league_id": 2,
+        "name": "Atlético Madrid",
+        "logo": "https://media-1.api-sports.io/football/teams/530.png",
+        "founded_year": 1903,
+        "city": "Madrid",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Cívitas Metropolitano"
+      },
+      {
+        "id": 531,
+        "league_id": 2,
+        "name": "Athletic Club",
+        "logo": "https://media-1.api-sports.io/football/teams/531.png",
+        "founded_year": 1898,
+        "city": "Bilbao",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "San Mamés"
+      },
+      {
+        "id": 532,
+        "league_id": 2,
+        "name": "Valencia CF",
+        "logo": "https://media-1.api-sports.io/football/teams/532.png",
+        "founded_year": 1944,
+        "city": "Valencia",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Mestalla"
+      },
+      {
+        "id": 533,
+        "league_id": 2,
+        "name": "Villarreal CF",
+        "logo": "https://media-1.api-sports.io/football/teams/533.png",
+        "founded_year": 1923,
+        "city": "Villarreal",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Estadi de la Ceràmica"
+      },
+      {
+        "id": 536,
+        "league_id": 2,
+        "name": "Sevilla FC",
+        "logo": "https://media-1.api-sports.io/football/teams/536.png",
+        "founded_year": 1890,
+        "city": "Seville",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Ramon Sanchez-Pizjuan"
+      },
+      {
+        "id": 538,
+        "league_id": 2,
+        "name": "Celta de Vigo",
+        "logo": "https://media-1.api-sports.io/football/teams/538.png",
+        "founded_year": 1923,
+        "city": "Vigo",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Estadio de Balaídos"
+      },
+      {
+        "id": 540,
+        "league_id": 2,
+        "name": "Espanyol",
+        "logo": "https://media-1.api-sports.io/football/teams/540.png",
+        "founded_year": 1900,
+        "city": "Barcelona",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "RCDE"
+      },
+      {
+        "id": 541,
+        "league_id": 2,
+        "name": "Real Madrid CF",
+        "logo": "https://media-1.api-sports.io/football/teams/541.png",
+        "founded_year": 1902,
+        "city": "Madrid",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": " Santiago Bernabéu"
+      },
+      {
+        "id": 543,
+        "league_id": 2,
+        "name": "Real Betis",
+        "logo": "https://media-1.api-sports.io/football/teams/543.png",
+        "founded_year": 1907,
+        "city": "Seville",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Benito Villamarín"
+      },
+      {
+        "id": 546,
+        "league_id": 2,
+        "name": "Getafe CF",
+        "logo": "https://media-1.api-sports.io/football/teams/546.png",
+        "founded_year": 1983,
+        "city": "Getafe",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Coliseum Alfonso Pérez"
+      },
+      {
+        "id": 547,
+        "league_id": 2,
+        "name": "Girona FC",
+        "logo": "https://media-1.api-sports.io/football/teams/546.png",
+        "founded_year": 1930,
+        "city": "Girona",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Estadi Montilivi"
+      },
+      {
+        "id": 548,
+        "league_id": 2,
+        "name": "Real Sociedad",
+        "logo": "https://media-1.api-sports.io/football/teams/548.png",
+        "founded_year": 1909,
+        "city": "Donostia-San Sebastian",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Reale Arena"
+      },
+      {
+        "id": 720,
+        "league_id": 2,
+        "name": "Real Valladolid",
+        "logo": "https://media-1.api-sports.io/football/teams/720.png",
+        "founded_year": 1928,
+        "city": "Valladolid",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "José Zorrilla"
+      },
+      {
+        "id": 723,
+        "league_id": 2,
+        "name": "Almería",
+        "logo": "https://media-1.api-sports.io/football/teams/723.png",
+        "founded_year": 1989,
+        "city": "Almería",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Municipal Stadium of the Mediterranean Games"
+      },
+      {
+        "id": 724,
+        "league_id": 2,
+        "name": "Cadiz CF",
+        "logo": "https://media-1.api-sports.io/football/teams/724.png",
+        "founded_year": 1910,
+        "city": "Cádiz",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Estadio Nuevo Mirandilla"
+      },
+      {
+        "id": 727,
+        "league_id": 2,
+        "name": "Osasuna",
+        "logo": "https://media-1.api-sports.io/football/teams/727.png",
+        "founded_year": 1920,
+        "city": "Pamplona",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "El Sadar"
+      },
+      {
+        "id": 728,
+        "league_id": 2,
+        "name": "Rayo Vallecano FC",
+        "logo": "https://media-1.api-sports.io/football/teams/728.png",
+        "founded_year": 1920,
+        "city": "Puente de Vallecas",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Estadio de Vallecas"
+      },
+      {
+        "id": 797,
+        "league_id": 2,
+        "name": "Elche CF",
+        "logo": "https://media-1.api-sports.io/football/teams/797.png",
+        "founded_year": 1923,
+        "city": "Elche",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Estadio Manuel Martínez Valero"
+      },
+      {
+        "id": 798,
+        "league_id": 2,
+        "name": "Mallorca",
+        "logo": "https://media-1.api-sports.io/football/teams/798.png",
+        "founded_year": 1916,
+        "city": "Majorca",
+        "league": "La Liga",
+        "country": "Spain",
+        "stadium": "Estadi Mallorca Son Moix"
+      }
+]
