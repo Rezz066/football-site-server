@@ -2,7 +2,8 @@ require("dotenv").config();
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const leaguesRoute = require('./routes/leagues')
+const leaguesRoute = require("./routes/leagues");
+const eplTableRoute = require("./routes/epl_clubs");
 
 const { PORT } = process.env || 7070;
 
@@ -10,37 +11,14 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static("public"));
 
-app.use('/leagues', leaguesRoute)
+app.use("/leagues", leaguesRoute);
+app.use("/epl-table", eplTableRoute);
 
 app.listen(PORT, () => {
   console.log(`server is running on ${PORT}`);
 });
 
 /*
-LaLiga club logo
-https://media.api-sports.io/football/leagues/140.png
-https://media.api-sports.io/flags/es.svg
-Barcelona: https://media-1.api-sports.io/football/teams/529.png
-Atletico: 530
-Athletic: 531
-Valencia: 532
-Villarreal: 533
-Sevilla: 536
-Celta Vigo: 538
-Espanyol: 540
-Real Madrid: 541
-Real Betis: 543
-Getafe: 546
-Girona: 547
-Real Sociedad: 548
-Valladolid: 720
-Almeria: 723
-Cadiz: 724
-Osasuna: 727
-Rayo Vallecano: 728
-Elche: 797
-Mallorca: 798
-
 Bundesliga club logo
 https://media-3.api-sports.io/football/leagues/78.png
 https://media-2.api-sports.io/flags/de.svg
