@@ -1,0 +1,200 @@
+[
+    {
+        "id": 157,
+        "league_id": 3,
+        "name": "FC Bayern Munich",
+        "logo": "https://media-1.api-sports.io/football/teams/157.png",
+        "founded_year": 1900,
+        "city": "Munich",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Allianz Arena"
+    },
+    {
+        "id": 159,
+        "league_id": 3,
+        "name": "Hertha",
+        "logo": "https://media-1.api-sports.io/football/teams/159.png",
+        "founded_year": 1892,
+        "city": "Berlin",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Olympiastadion Berlin"
+    },
+    {
+        "id": 160,
+        "league_id": 3,
+        "name": "Freiburg",
+        "logo": "https://media-1.api-sports.io/football/teams/160.png",
+        "founded_year": 1904,
+        "city": "Freiburg im Breisgau",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Stade Europa-Park"
+    },
+    {
+        "id": 161,
+        "league_id": 3,
+        "name": "Wolfsburg",
+        "logo": "https://media-1.api-sports.io/football/teams/161.png",
+        "founded_year": 1945,
+        "city": "Wolfsburg",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Volkswagen Arena"
+    },
+    {
+        "id": 162,
+        "league_id": 3,
+        "name": "Weder Bremen",
+        "logo": "https://media-1.api-sports.io/football/teams/162.png",
+        "founded_year": 1899,
+        "city": "Bremen",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Weser Stadium"
+    },
+    {
+        "id": 163,
+        "league_id": 3,
+        "name": "Mönchengladbach",
+        "logo": "https://media-1.api-sports.io/football/teams/163.png",
+        "founded_year": 1900,
+        "city": "Mönchengladbach",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Borussia-Park"
+    },
+    {
+        "id": 164,
+        "league_id": 3,
+        "name": "Mainz",
+        "logo": "https://media-1.api-sports.io/football/teams/164.png",
+        "founded_year": 1905,
+        "city": "Mainz",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "MEWA Arena"
+    },
+    {
+        "id": 165,
+        "league_id": 3,
+        "name": "Dortmund",
+        "logo": "https://media-1.api-sports.io/football/teams/165.png",
+        "founded_year": 1909,
+        "city": "Dortmund",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Signal Iduna Park"
+    },
+    {
+        "id": 167,
+        "league_id": 3,
+        "name": "Hoffenheim",
+        "logo": "https://media-1.api-sports.io/football/teams/167.png",
+        "founded_year": 1899,
+        "city": "Hoffenheim",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Rhein-Neckar-Arena"
+    },
+    {
+        "id": 168,
+        "league_id": 3,
+        "name": "Leverkusen",
+        "logo": "https://media-1.api-sports.io/football/teams/168.png",
+        "founded_year": 1904,
+        "city": "Leverkusen",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Bay Arena"
+    },
+    {
+        "id": 169,
+        "league_id": 3,
+        "name": "Eintracht Frankfurt",
+        "logo": "https://media-1.api-sports.io/football/teams/169.png",
+        "founded_year": 1899,
+        "city": "Frankfurt",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Deutsche Bank Park"
+    },
+    {
+        "id": 170,
+        "league_id": 3,
+        "name": "FC Augsburg",
+        "logo": "https://media-1.api-sports.io/football/teams/170.png",
+        "founded_year": 1907,
+        "city": "Augsburg",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "WWK Arena"
+    },
+    {
+        "id": 172,
+        "league_id": 3,
+        "name": "VfB Stuttgart",
+        "logo": "https://media-1.api-sports.io/football/teams/172.png",
+        "founded_year": 1893,
+        "city": "Stuttgart",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Mercedes-Benz Arena"
+    },
+    {
+        "id": 173,
+        "league_id": 3,
+        "name": "RB Leipzig",
+        "logo": "https://media-1.api-sports.io/football/teams/173.png",
+        "founded_year": 2009,
+        "city": "Leipzig",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Red Bull Arena"
+    },
+    {
+        "id": 174,
+        "league_id": 3,
+        "name": "FC Schalke",
+        "logo": "https://media-1.api-sports.io/football/teams/174.png",
+        "founded_year": 1904,
+        "city": "Gelsenkirchen",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "VELTINS-Arena"
+    },
+    {
+        "id": 176,
+        "league_id": 3,
+        "name": "VfL Bochum",
+        "logo": "https://media-1.api-sports.io/football/teams/176.png",
+        "founded_year": 1848,
+        "city": "Bochum",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Vonovia-Ruhrstadion"
+    },
+    {
+        "id": 182,
+        "league_id": 3,
+        "name": "Union Berlin",
+        "logo": "https://media-1.api-sports.io/football/teams/182.png",
+        "founded_year": 1966,
+        "city": "Berlin",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "Stadion An der Alten Försterei"
+    },
+    {
+        "id": 192,
+        "league_id": 3,
+        "name": "Köln",
+        "logo": "https://media-1.api-sports.io/football/teams/192.png",
+        "founded_year": 1948,
+        "city": "Cologne",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "stadium": "RheinEnergieSTADION"
+    }
+]
