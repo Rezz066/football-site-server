@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 const leaguesRoute = require("./routes/leagues");
-const eplTableRoute = require("./routes/epl_clubs");
+const eplDataRoute = require("./routes/epl_clubs");
 
 const { PORT } = process.env || 7070;
 
@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 app.use("/leagues", leaguesRoute);
-app.use("/epl-table", eplTableRoute);
+app.use("/epl-data", eplDataRoute);
 
 app.listen(PORT, () => {
   console.log(`server is running on ${PORT}`);
