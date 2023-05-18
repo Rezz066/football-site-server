@@ -4,18 +4,50 @@ const knex = require("knex");
 const knexConfig = require("../knexfile").development;
 const db = knex(knexConfig);
 
-const data = async () => {
+const tableData = async () => {
   return await db("epl_clubs")
     .join("epl_results", {
       "epl_clubs.id": "epl_results.club_id",
     })
     .join("epl_stats", { "epl_clubs.id": "epl_stats.club_id" })
-    .select("*");
+    .select(
+      "epl_clubs.id",
+      "name",
+      "logo",
+      "matches_played",
+      "wins",
+      "draws",
+      "losses",
+      "goals_for",
+      "goals_against",
+      "goal_difference"
+    );
+};
+
+const statsData = async () => {
+  return await db("epl_clubs")
+    .join("epl_results", {
+      "epl_clubs.id": "epl_results.club_id",
+    })
+    .join("epl_stats", { "epl_clubs.id": "epl_stats.club_id" })
+    .select(
+      '"epl_clubs.id"',
+      "name",
+      "logo",
+      "matches_played",
+      "goals_for",
+      "goals_against",
+      "goal_difference",
+      "own_goals",
+      "clean_sheets",
+      "yellow_cards",
+      "red_cards"
+    );
 };
 
 router.get("/", async (_req, res) => {
   try {
-    const leagueTable = await data();
+    const leagueTable = await tableData();
 
     console.log(leagueTable);
 
@@ -25,24 +57,7 @@ router.get("/", async (_req, res) => {
         .json({ message: "There are no clubs for that league" });
     }
 
-    if (leagueTable) {
-      const filteredTable = leagueTable.map((club) => {
-        return {
-          id: club.id,
-          club_id: club.club_id,
-          name: club.name,
-          logo: club.logo,
-          matches_played: club.matches_played,
-          wins: club.wins,
-          draws: club.draws,
-          losses: club.losses,
-          goals_for: club.goals_for,
-          goals_against: club.goals_against,
-          goal_difference: club.goal_difference,
-        };
-      });
-      return res.status(200).send(filteredTable);
-    }
+    return res.status(200).send(leagueTable);
   } catch (err) {
     console.error(err);
   }
@@ -50,7 +65,7 @@ router.get("/", async (_req, res) => {
 
 router.get("/stats", async (_req, res) => {
   try {
-    const leagueStats = await data();
+    const leagueStats = await statsData();
 
     if (leagueStats.length === 0) {
       return res
@@ -58,25 +73,7 @@ router.get("/stats", async (_req, res) => {
         .json({ message: "There are no stats for that club" });
     }
 
-    if (leagueStats) {
-      const filteredStats = leagueStats.map((club) => {
-        return {
-          id: club.id,
-          club_id: club.club_id,
-          name: club.name,
-          logo: club.logo,
-          goals_for: club.goals_for,
-          goals_against: club.goals_against,
-          goal_difference: club.goal_difference,
-          own_goals: club.own_goals,
-          clean_sheets: club.clean_sheets,
-          yellow_cards: club.yellow_cards,
-          red_cards: club.red_cards,
-        };
-      });
-
-      return res.status(200).send(filteredStats);
-    }
+    return res.status(200).send(leagueStats);
   } catch (err) {
     console.error(err);
   }
