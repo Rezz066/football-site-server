@@ -2,161 +2,161 @@
   {
     "id": 1,
     "club_id": 33,
-    "matches_played": 34,
-    "wins": 19,
+    "matches_played": 38,
+    "wins": 23,
     "draws": 6,
     "losses": 9
   },
   {
     "id": 2,
     "club_id": 34,
-    "matches_played": 34,
-    "wins": 18,
-    "draws": 11,
+    "matches_played": 38,
+    "wins": 19,
+    "draws": 14,
     "losses": 5
   },
   {
     "id": 3,
     "club_id": 35,
-    "matches_played": 35,
+    "matches_played": 38,
     "wins": 11,
     "draws": 6,
-    "losses": 18
+    "losses": 21
   },
   {
     "id": 4,
     "club_id": 36,
-    "matches_played": 35,
-    "wins": 14,
-    "draws": 6,
-    "losses": 15
+    "matches_played": 38,
+    "wins": 15,
+    "draws": 7,
+    "losses": 16
   },
   {
     "id": 5,
     "club_id": 39,
-    "matches_played": 35,
+    "matches_played": 38,
     "wins": 11,
-    "draws": 7,
-    "losses": 17
+    "draws": 8,
+    "losses": 19
   },
   {
     "id": 6,
     "club_id": 40,
-    "matches_played": 35,
-    "wins": 18,
-    "draws": 8,
+    "matches_played": 38,
+    "wins": 19,
+    "draws": 10,
     "losses": 9
   },
   {
     "id": 7,
     "club_id": 41,
-    "matches_played": 35,
+    "matches_played": 38,
     "wins": 6,
-    "draws": 6,
-    "losses": 23
+    "draws": 7,
+    "losses": 25
   },
   {
     "id": 8,
     "club_id": 42,
-    "matches_played": 35,
-    "wins": 25,
+    "matches_played": 38,
+    "wins": 26,
     "draws": 6,
-    "losses": 4
+    "losses": 6
   },
   {
     "id": 9,
     "club_id": 45,
-    "matches_played": 35,
-    "wins": 7,
-    "draws": 11,
-    "losses": 17
+    "matches_played": 38,
+    "wins": 8,
+    "draws": 12,
+    "losses": 18
   },
   {
     "id": 10,
     "club_id": 46,
-    "matches_played": 35,
-    "wins": 8,
-    "draws": 6,
-    "losses": 21
+    "matches_played": 38,
+    "wins": 9,
+    "draws": 7,
+    "losses": 22
   },
   {
     "id": 11,
     "club_id": 47,
-    "matches_played": 35,
-    "wins": 17,
+    "matches_played": 38,
+    "wins": 18,
     "draws": 6,
-    "losses": 12
+    "losses": 14
   },
   {
     "id": 12,
     "club_id": 48,
-    "matches_played": 35,
-    "wins": 10,
+    "matches_played": 38,
+    "wins": 11,
     "draws": 7,
-    "losses": 18
+    "losses": 20
   },
   {
     "id": 13,
     "club_id": 49,
-    "matches_played": 34,
+    "matches_played": 38,
     "wins": 11,
-    "draws": 9,
-    "losses": 14
+    "draws": 11,
+    "losses": 16
   },
   {
     "id": 14,
     "club_id": 50,
-    "matches_played": 34,
-    "wins": 26,
-    "draws": 4,
-    "losses": 4
+    "matches_played": 38,
+    "wins": 28,
+    "draws": 5,
+    "losses": 5
   },
   {
     "id": 15,
     "club_id": 51,
-    "matches_played": 33,
-    "wins": 16,
-    "draws": 7,
-    "losses": 10
+    "matches_played": 38,
+    "wins": 18,
+    "draws": 8,
+    "losses": 12
   },
   {
     "id": 16,
     "club_id": 52,
-    "matches_played": 35,
-    "wins": 10,
-    "draws": 10,
+    "matches_played": 38,
+    "wins": 11,
+    "draws": 12,
     "losses": 15
   },
   {
     "id": 17,
     "club_id": 55,
-    "matches_played": 35,
-    "wins": 12,
+    "matches_played": 38,
+    "wins": 15,
     "draws": 14,
     "losses": 9
   },
   {
     "id": 18,
     "club_id": 63,
-    "matches_played": 35,
+    "matches_played": 38,
     "wins": 7,
-    "draws": 9,
-    "losses": 19
+    "draws": 10,
+    "losses": 21
   },
   {
     "id": 19,
     "club_id": 65,
-    "matches_played": 35,
-    "wins": 8,
-    "draws": 9,
+    "matches_played": 38,
+    "wins": 9,
+    "draws": 11,
     "losses": 18
   },
   {
     "id": 20,
     "club_id": 66,
-    "matches_played": 35,
-    "wins": 16,
-    "draws": 6,
+    "matches_played": 38,
+    "wins": 18,
+    "draws": 7,
     "losses": 13
   }
 ]
